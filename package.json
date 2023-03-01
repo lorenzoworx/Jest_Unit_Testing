@@ -1,0 +1,12 @@
+{
+  "name": "js-unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stringLength.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
